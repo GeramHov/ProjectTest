@@ -1,0 +1,17 @@
+a {
+    font-size: xx-large;
+}
+
+body { font-size:larger;
+    background-color: beige;
+}
+img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    font-size: xx-large;
+    font-style: italic;
+}
